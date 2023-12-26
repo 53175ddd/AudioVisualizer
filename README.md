@@ -30,8 +30,8 @@
 | D1 ~ D96 | 5mm LED | 例：<https://akizukidenshi.com/catalog/g/gI-01322/></br>抵抗内蔵でない単色 LED なら何色でも可 |
 | J1, J2 | 2.1mm DC Jack | <https://akizukidenshi.com/catalog/g/gC-01604/> |
 | J3 | 3.5mm Audio Jack | <https://akizukidenshi.com/catalog/g/gC-02460/> |
-| R1, R2, R4 ~ R6 | 1kΩ | <https://akizukidenshi.com/catalog/g/gR-25102/> |
-| R3, R16, R17, R20, R21 | 4.7kΩ | <https://akizukidenshi.com/catalog/g/gR-25472/> |
+| R1, R2, R4 ~ R6, R144 | 1kΩ | <https://akizukidenshi.com/catalog/g/gR-25102/> |
+| R3, R16, R17, R20, R21, R141 | 4.7kΩ | <https://akizukidenshi.com/catalog/g/gR-25472/> |
 | R7 | 9.1kΩ | <https://akizukidenshi.com/catalog/g/gR-25912/> |
 | R8 | 27kΩ | <https://akizukidenshi.com/catalog/g/gR-25273/> |
 | R9 | 33kΩ | <https://akizukidenshi.com/catalog/g/gR-25333/> |
@@ -42,10 +42,20 @@
 | R18, R19, R23, R28 | 5.6kΩ | <https://akizukidenshi.com/catalog/g/gR-25562/> |
 | R22, R26, R27 | 5.1kΩ | <https://akizukidenshi.com/catalog/g/gR-07832/> |
 | R24 | 6.2kΩ | <https://akizukidenshi.com/catalog/g/gR-14278/> |
-| R29, R30, R32 ~ R43 | 330Ω | <https://akizukidenshi.com/catalog/g/gR-25331/> |
-| R31 | 15kΩ | <https://akizukidenshi.com/catalog/g/gR-25153/> |
-| R44 ~ R139 | 510Ω | <https://akizukidenshi.com/catalog/g/gR-25511/> |
-| RV1 | 10kΩ B カーブ | <https://akizukidenshi.com/catalog/g/gP-06110/> |
+| R29, R30, R147, R150, R151 | 330Ω | <https://akizukidenshi.com/catalog/g/gR-25331/> |
+| R44 ~ R139 | 510Ω 1/6W | <https://akizukidenshi.com/catalog/g/gR-25511/> |
+| R140 | 51kΩ | <https://akizukidenshi.com/catalog/g/gR-25513/> |
+| R142 | 2.2kΩ | <https://akizukidenshi.com/catalog/g/gR-25222/> |
+| R143, R145, R146 | 510Ω 1.4W | <https://akizukidenshi.com/catalog/g/gR-25511/> |
+| R148 | 470Ω | <https://akizukidenshi.com/catalog/g/gR-25471/> |
+| R149 | 220Ω | <https://akizukidenshi.com/catalog/g/gR-25221/> |
+| R152 | 75Ω | <https://akizukidenshi.com/catalog/g/gR-25750/> |
+| R153, R157 ~ R160 | 10Ω | <https://akizukidenshi.com/catalog/g/gR-25100/> |
+| R154 ~ R156 | 27Ω | <https://akizukidenshi.com/catalog/g/gR-14273/> |
+| RV1 | 10kΩ B カーブ | <https://akizukidenshi.com/catalog/g/gP-08012/> |
 | U1 ~ U5 | LM2904 | <https://akizukidenshi.com/catalog/g/gI-13643/> |
 | U6 ~ U53 | LM393 | <https://akizukidenshi.com/catalog/g/gI-16987/> |
 | U54 | NJM7805 | <https://akizukidenshi.com/catalog/g/gI-08678/> |
+
+※1：R31 ~ R43 は欠番です
+※2：入力に対し感度が強すぎる場合，R6 を取り外して使用してください
