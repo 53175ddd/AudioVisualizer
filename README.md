@@ -30,6 +30,7 @@
 | D1 ~ D96 | 5mm LED | 例：<https://akizukidenshi.com/catalog/g/gI-01322/></br>抵抗内蔵でない単色 LED なら何色でも可 |
 | J1, J2 | 3.5mm Audio Jack | <https://akizukidenshi.com/catalog/g/gC-02460/> |
 | J3 | 3P ターミナル | <https://akizukidenshi.com/catalog/g/gP-01307/> |
+| J4 | USB A レセプタクル | <https://akizukidenshi.com/catalog/g/gC-00160/> |
 | R1, R2, R4 ~ R6, R144 | 1kΩ | <https://akizukidenshi.com/catalog/g/gR-25102/> |
 | R3, R16, R17, R20, R21, R141 | 4.7kΩ | <https://akizukidenshi.com/catalog/g/gR-25472/> |
 | R7 | 9.1kΩ | <https://akizukidenshi.com/catalog/g/gR-25912/> |
@@ -55,7 +56,7 @@
 | RV1 | 10kΩ B カーブ | <https://akizukidenshi.com/catalog/g/gP-08012/> |
 | U1 ~ U5 | LM2904 | <https://akizukidenshi.com/catalog/g/gI-13643/> |
 | U6 ~ U53 | LM393 | <https://akizukidenshi.com/catalog/g/gI-16987/> |
-| U54 | NJM7805 | <https://akizukidenshi.com/catalog/g/gI-08678/> |
+| U54, U55 | NJM7805 | <https://akizukidenshi.com/catalog/g/gI-08678/> |
 
 ※1：R31 ~ R43 は欠番です
 ※2：入力に対し感度が強すぎる場合，R6 を取り外して使用してください
