@@ -18,7 +18,7 @@
 
 | 部品番号 | 部品名 | リンク |
 |:----|:----|:----|
-| C1 - C6, C23 - C26 | 0.1uF | <https://akizukidenshi.com/catalog/g/gP-10147/> |
+| C2 - C6, C23 - C26 | 0.1uF | <https://akizukidenshi.com/catalog/g/gP-10147/> |
 | C7, C16, C18 | 0.0068uF | <https://wakamatsu.co.jp/biz/products/detail.php?product_id=21280110> |
 | C8, C9 | 1uF | <https://akizukidenshi.com/catalog/g/gP-08150/> |
 | C10 | 0.47uF | <https://akizukidenshi.com/catalog/g/gP-08148/> |
