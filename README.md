@@ -48,7 +48,6 @@
 | R15 | 130Ω | <https://akizukidenshi.com/catalog/g/g109123/> |
 | R16, R25 | 100kΩ | <https://akizukidenshi.com/catalog/g/g125104/> |
 | R22 | 180kΩ | <https://akizukidenshi.com/catalog/g/g125184/> |
-| R23, R141 | 4.7kΩ | <https://akizukidenshi.com/catalog/g/g125472/> |
 | R24 | 120Ω | <https://akizukidenshi.com/catalog/g/g125121/> |
 | R26 | 6.2kΩ | <https://akizukidenshi.com/catalog/g/g114278/> |
 | R29 | 2.7kΩ | <https://akizukidenshi.com/catalog/g/g125272/> |
